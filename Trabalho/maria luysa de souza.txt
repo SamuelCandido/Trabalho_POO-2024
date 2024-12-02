@@ -1,0 +1,2 @@
+ID,Valor,Data,Categoria
+1,23.00,01/12/2024,SALARIO
